@@ -1,6 +1,6 @@
 {
     'name': 'Purchase State Filter and Group By',
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0',
     'category': 'Purchase',
     'summary': 'Add filtering and grouping by state in purchase orders',
     'author': 'Your Name',
